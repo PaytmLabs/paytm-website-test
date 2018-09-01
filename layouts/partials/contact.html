@@ -1,21 +1,21 @@
 <div class="container" id="contact">
 
-    <div class="row">
-        <div class="col-md-8">
-
+    <div style="margin-top:-20px">
+        <!-- <div class="col-md-8"> -->
+        <img src="{{ .Site.BaseURL }}/img/ti.jpg" class="img-responsive" alt="">
             <section>
 
                 {{ .Content }}
 
                 {{ if isset .Site.Params "email" }}
 
-                <div class="heading">
+                <!-- <div class="heading">
                   <h3>{{ i18n "contactForm" }}</h3>
                 </div>
 
-                <div id="contact-message"></div>
+                <div id="contact-message"></div> -->
 
-                <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+                <!-- <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -40,17 +40,17 @@
                           <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n "contactSend" }}</button>
 
                         </div>
-                    </div>
+                    </div> -->
                     <!-- /.row -->
-                </form>
+                <!-- </form> -->
 
                 {{ end }}
 
             </section>
 
-        </div>
+        <!-- </div> -->
 
-        <div class="col-md-4">
+        <!-- <div class="col-md-4">
 
             {{ if isset .Site.Params "address" }}
             <section>
@@ -63,10 +63,10 @@
 
             {{ end }}
 
-        </div>
+        </div> -->
 
     </div>
     <!-- /.row -->
 </div>
 
-{{ partial "map.html" . }}
+<!-- {{ partial "map.html" . }} -->

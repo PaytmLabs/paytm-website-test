@@ -1,24 +1,24 @@
-{{ if isset .Site.Params "testimonials" }}
-{{ if .Site.Params.testimonials.enable }}
-{{ if gt (len .Site.Data.testimonials) 0 }}
-<section class="bar no-mb">
+{{ if isset .Site.Params "communities" }}
+{{ if .Site.Params.communities.enable }}
+{{ if gt (len .Site.Data.communities) 0 }}
+<section class="bar background-white no-mb">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="heading-section text-center">
-                    <h2 style="color:white;">{{ .Site.Params.testimonials.title }}</h2>
+                <div class="heading text-center">
+                    <h2 style="color:#203468">{{ .Site.Params.communities.title }}</h2>
                 </div>
 
                 <!-- <p class="lead">
-                  {{ .Site.Params.testimonials.subtitle | markdownify }}
+                  {{ .Site.Params.communities.subtitle | markdownify }}
                 </p> -->
 
                 <!-- *** TESTIMONIALS CAROUSEL *** -->
 
-                <ul class="owl-carousel testimonials same-height-row">
-                    {{ range .Site.Data.testimonials }}
+                <ul class="owl-carousel communities same-height-row">
+                    {{ range .Site.Data.communities }}
                     <li class="item">
-                        <div class="testimonial same-height-always">
+                        <div class="community same-height-always">
                             <div class="text">
                                 <p>{{ .text | markdownify }}</p>
                             </div>
