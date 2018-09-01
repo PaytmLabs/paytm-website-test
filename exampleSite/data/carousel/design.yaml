@@ -1,10 +1,9 @@
-weight: 3
-title: "Design"
+weight: 1
+title: "Turn Your Bills Into Rewards"
 description: >
   <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
+    <li>Every transaction that you make with the App, will earn you Paytm Points.  </li>
+    <li>Redeem them for a free cup of coffee, groceries, a ride home and so much more.</li>
+    <li>The power is in your hands, turn your bills into rewards!</li>
   </ul>
-image: "img/carousel/template-easy-customize.png"
+image: "img/carousel/rewards.png"
