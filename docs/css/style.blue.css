@@ -1280,7 +1280,7 @@ fieldset[disabled] .btn-template-primary.active {
 .testimonials .item {
   list-style-type: none;
   margin: 0 5px;
-  background: #203468;
+  background: #172851;
   padding-bottom: 60px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1326,10 +1326,10 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 30px;
   float: left;
   width: 20%;
-  border-top-color: #203468;
-  border-right-color: #203468;
-  border-bottom-color: #203468;
-  border-left-color: #203468;
+  border-top-color: #172851;
+  border-right-color: #172851;
+  border-bottom-color: #172851;
+  border-left-color: #172851;
 }
 .testimonials .item .testimonial .name-picture {
   float: right;
@@ -1341,11 +1341,12 @@ fieldset[disabled] .btn-template-primary.active {
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: #ffffff;
+  margin-top: -3px;
 }
 .testimonials .item .testimonial .name-picture p {
   color: #ffffff;
   margin: 0;
-  font-size: 12px;
+  font-size: 18px;
 }
 .testimonials .item .testimonial .name-picture img {
   float: right;
@@ -1387,7 +1388,7 @@ fieldset[disabled] .btn-template-primary.active {
   clear: both;
 }
 .communities .item .community .text {
-  color: #999999;
+  color: #172851;
   margin-bottom: 40px;
 }
 .communities .item .community .bottom {
@@ -1418,7 +1419,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .communities .item .community .name-picture p {
-  color: #999999;
+  color: #172851;
   margin: 0;
   font-size: 12px;
 }
@@ -3257,7 +3258,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.42857143;
   color: #555555;
 }
