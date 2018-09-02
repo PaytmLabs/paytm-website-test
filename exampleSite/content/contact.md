@@ -3,8 +3,6 @@ title = ""
 id = "contact"
 +++
 
-# Canada’s Most Secure Network
-
 Located in Toronto, Canada since 2014, Paytm’s mission is to bring better financial services to Canadians. By offering a mobile payment and commerce platform.
 
 In 2017, Paytm launched a consumer-facing mobile application in Canada. The Paytm Canada app allows Canadians to pay all their bills with their smartphone by using their credit card, bank account or Paytm Cash without paying any fees. Customers collect Paytm Points for every transaction made in the App, and they can redeem their Points for Paytm Rewards. In addition to, sending money to friends and family across Canada. Paytm has invested more than $50 million to grow their operations in Canada over the next decade.
