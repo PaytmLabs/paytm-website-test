@@ -25,7 +25,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Blog"
-    url  = "https://blog.www.paytm.ca/"
+    url  = "https://www.paytm.ca/blog/"
     weight = 2
 
 [[menu.main]]
