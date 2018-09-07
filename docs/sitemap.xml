@@ -3,117 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>https://paytm.ca/blog/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/blog/2015/10/02/linked-post/</loc>
+    <loc>https://paytm.ca/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://paytm.ca/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://paytm.ca/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://paytm.ca/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/contact/</loc>
+    <loc>https://paytm.ca/contact/</loc>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/blog/</loc>
+    <loc>https://paytm.ca/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/categories/</loc>
+    <loc>https://paytm.ca/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/faq/</loc>
+    <loc>https://paytm.ca/faq/</loc>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/tags/go/</loc>
+    <loc>https://paytm.ca/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/tags/golang/</loc>
+    <loc>https://paytm.ca/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/tags/hugo/</loc>
+    <loc>https://paytm.ca/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/tags/ipsum/</loc>
+    <loc>https://paytm.ca/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/categories/lorem/</loc>
+    <loc>https://paytm.ca/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/</loc>
+    <loc>https://paytm.ca/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/tags/programming/</loc>
+    <loc>https://paytm.ca/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/categories/programming/</loc>
+    <loc>https://paytm.ca/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/categories/pseudo/</loc>
+    <loc>https://paytm.ca/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/categories/starting/</loc>
+    <loc>https://paytm.ca/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/tags/</loc>
+    <loc>https://paytm.ca/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paytmlabs.github.io/paytm-website-test/tags/theme/</loc>
+    <loc>https://paytm.ca/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
